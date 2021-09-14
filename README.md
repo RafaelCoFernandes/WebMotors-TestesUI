@@ -4,6 +4,7 @@
 A aplicação consiste em efetuar testes automatizados no site da WebMotors, usando o framework Cucumber através do BDD e linguagem Gherkin na elaboração dos cenários e Selenium na execução dos testes.
 # 2) Objetivo
 Na condição de usuário, devemos realizar buscas pelo site, a fim de encontrar o veículo desejado.
+
 Enquanto Tester, devemos verificar se o site se comporta de maneira adequada a necessidade do usuário e validar os testes através de imagens que comprovam a funcionalidade do componente de pesquisa.
 ## Cenários de Teste
 - Descrição dos cenários de teste.
