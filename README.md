@@ -49,4 +49,5 @@ Após clonar o projeto, basta instalar o plugin Cucumber (Caso haja necessidade)
 Rafael Coelho Fernandes
 
 - Linkedin: 
-www.linkedin.com/in/rafael-fernandes-32304b187
+www.linkedin.com/in/rafael-fernandes-QA1997
+
