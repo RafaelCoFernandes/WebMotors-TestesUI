@@ -9,12 +9,12 @@ Enquanto Tester, devemos verificar se o site se comporta de maneira adequada a n
 ## Cenários de Teste
 - Descrição dos cenários de teste.
 
-![Cenários](https://user-images.githubusercontent.com/81786010/133172736-5ef574f9-16fc-43c2-85b1-3d6742ccc9de.png) 
+<img src="https://user-images.githubusercontent.com/81786010/133172736-5ef574f9-16fc-43c2-85b1-3d6742ccc9de.png" alt="drawing" width="800"/>
 
 ## Execução dos Cenários
 - Métodos Utilizados.
 
-![Metodos](https://user-images.githubusercontent.com/81786010/133172741-be7d82bd-0532-4c3c-b8ac-a96acaf36b2c.png)
+<img src="https://user-images.githubusercontent.com/81786010/133172741-be7d82bd-0532-4c3c-b8ac-a96acaf36b2c.png" alt="drawing" width="800"/>
 
 # 3) Tecnologias utilizadas
 ## Cenários de Teste
