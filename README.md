@@ -24,7 +24,7 @@ Enquanto Tester, devemos verificar se o site se comporta de maneira adequada a n
 - Selenium WebDriver;
 - JUnit;
 - Java 11;
-# 4) Dependencias Utilizadas
+# 4) Dependências Utilizadas
 | Plugin | Mais informações |
 | ------ | ------ |
 | Cucumber | [https://mvnrepository.com/artifact/io.cucumber/cucumber-java]|
