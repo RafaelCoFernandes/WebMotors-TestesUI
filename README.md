@@ -40,7 +40,7 @@ Enquanto Tester, devemos verificar se o site se comporta de maneira adequada a n
 
 # Clonar Repositório
 ```bash
-git clone (endereço do projeto)
+git clone https://github.com/RafaelCoFernandes/WebMotors-TestesUI.git
 ```
 Após clonar o projeto, basta instalar o plugin Cucumber (Caso haja necessidade) e executa-lo diretamente, certificando-se que o navegador utilizado seja o Google Chrome.
 # Autor
