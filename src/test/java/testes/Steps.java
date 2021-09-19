@@ -45,7 +45,7 @@ public class Steps {
 
 	}
 
-	@E("selecionar o filtro um - Concessionária")
+	@E("selecionar o filtro um - Concessionaria")
 	public void selecionar_o_filtro_um_Concessionaria() throws InterruptedException {
 
 		Thread.sleep(5000);
