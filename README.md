@@ -33,17 +33,27 @@ Enquanto Tester, devemos verificar se o site se comporta de maneira adequada a n
 | Selenium | [https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java]|
 | Ashot | [https://mvnrepository.com/artifact/ru.yandex.qatools.ashot/ashot] |
 # 5) Como executar o projeto
+
 ## Requisitos
 - Java 11
 - Eclipse IDE ou equivalente;
 - Plugin Cucumber;
-- Chrome Driver;
+
+# 5) Como executar o projeto
 
 # Clonar Repositório
+
+- Abra a WorkSpace da sua IDE e no seu terminal GIT insira o código abaixo:
+
 ```bash
-git clone https://github.com/RafaelCoFernandes/WebMotors-TestesUI.git
+git clone https://github.com/RafaelCoFernandes/DesafioYamanWebApi.git
 ```
-Após clonar o projeto, basta instalar o plugin Cucumber (Caso haja necessidade) e executa-lo diretamente, certificando-se que o navegador utilizado seja o Google Chrome.
+Após clonar o projeto, abra a sua IDE e importe o projeto Maven, após realizer estes passos, basta executa-lo através da classe "Execucao" ou do modo que preferir. OBS: Certifique-se que possua o plugin Cucumber instalado.
+
+- Obs Importantes
+
+Caso o veículo utilizado como exemplo no teste Web não esteja mais presente no site, pois as mudanças são contínuas, basta pesquisar por outro produto na documentação Cucumber e alterar o elemento correspondente do site WebMotors na classe "ElementosWeb".
+
 # Autor
 
 Rafael Coelho Fernandes
