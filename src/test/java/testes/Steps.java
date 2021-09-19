@@ -77,7 +77,7 @@ public class Steps {
 	}
 
 	@Entao("valido as especificacoes {string} do Honda City atraves de uma foto.")
-	public void valido_as_especificacoes_do_Honda_City_através_de_uma_foto(String textoEsperado)
+	public void valido_as_especificacoes_do_Honda_City_atraves_de_uma_foto(String textoEsperado)
 			throws IOException, InterruptedException {
 		Thread.sleep(5000);
 		met.validarInformacao(ele.getEspecicacoesCity(), textoEsperado);
@@ -86,7 +86,7 @@ public class Steps {
 	}
 
 	@Entao("valido as especificacoes {string} do Toyota Corolla atraves de uma foto.")
-	public void valido_as_especificacoes_do_Toyota_Corolla_através_de_uma_foto(String textoEsperado)
+	public void valido_as_especificacoes_do_Toyota_Corolla_atraves_de_uma_foto(String textoEsperado)
 			throws IOException, InterruptedException {
 		Thread.sleep(5000);
 		met.validarInformacao(ele.getEspecificacoesCorolla(), textoEsperado);
