@@ -65,7 +65,7 @@ public class Metodos {
 
 		ArrayList<String> tabs2 = new ArrayList<String>(driver.getWindowHandles());
 		driver.switchTo().window(tabs2.get(1));
-
+		
 		String texto = driver.findElement(elementos).getText();
 		assertEquals(textoEsperado, texto);
 

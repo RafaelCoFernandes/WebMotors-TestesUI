@@ -46,7 +46,7 @@ public class Steps {
 	}
 
 	@E("selecionar o filtro um - Concessionária")
-	public void selecionar_o_filtro_um_Concessionária() throws InterruptedException {
+	public void selecionar_o_filtro_um_Concessionaria() throws InterruptedException {
 
 		Thread.sleep(5000);
 		met.clicarBarraRolagem(ele.getConcessionaria());
@@ -76,7 +76,7 @@ public class Steps {
 
 	}
 
-	@Entao("valido as especificacoes {string} do Honda City através de uma foto.")
+	@Entao("valido as especificacoes {string} do Honda City atraves de uma foto.")
 	public void valido_as_especificacoes_do_Honda_City_através_de_uma_foto(String textoEsperado)
 			throws IOException, InterruptedException {
 		Thread.sleep(5000);
@@ -85,7 +85,7 @@ public class Steps {
 		met.fecharNavegador();
 	}
 
-	@Entao("valido as especificacoes {string} do Toyota Corolla através de uma foto.")
+	@Entao("valido as especificacoes {string} do Toyota Corolla atraves de uma foto.")
 	public void valido_as_especificacoes_do_Toyota_Corolla_através_de_uma_foto(String textoEsperado)
 			throws IOException, InterruptedException {
 		Thread.sleep(5000);
