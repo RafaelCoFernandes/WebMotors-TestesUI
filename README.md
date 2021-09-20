@@ -32,29 +32,23 @@ Enquanto Tester, devemos verificar se o site se comporta de maneira adequada a n
 | JUnit | [https://mvnrepository.com/artifact/junit/junit] |
 | Selenium | [https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java]|
 | Ashot | [https://mvnrepository.com/artifact/ru.yandex.qatools.ashot/ashot] |
-# 5) Como executar o projeto
-
-## Requisitos
-- Java 11
-- Eclipse IDE ou equivalente;
-- Plugin Cucumber;
 
 # 5) Como executar o projeto
 
-# Clonar Repositório
+## Clonar Repositório
 
-- Abra a WorkSpace da sua IDE e no seu terminal GIT insira o código abaixo:
+Abra a WorkSpace da sua IDE e no seu terminal GIT insira o código abaixo:
 
 ```bash
 git clone https://github.com/RafaelCoFernandes/WebMotors-TestesUI.git
 ```
-Após clonar o projeto, abra a sua IDE e importe o projeto Maven, após realizer estes passos, basta executa-lo através da classe "Execucao" ou do modo que preferir. OBS: Certifique-se que possua o plugin Cucumber instalado.
+Após clonar o projeto, abra a sua IDE e importe o projeto Maven, após realizar estes passos, basta executa-lo através da classe "Execucao" ou do modo que preferir.
 
 ## Obs Importantes
 
-Certifique-se que o seu projeto esteja em UTF-8, para verificar ou alterar, basta clicar com o botão direto do mouse na pasta raiz do projeto e ir em "properties" e realizar a alteração se necessário. Caso o projeto não esteja sendo executado em UTF-8, o mesmo pode conter erros de grámatica, que podem ser facilmente alterados, porém podem gerar erros na execução dos testes.
+É importante certificar-se que o seu projeto esteja em UTF-8, pois como existem acentuações no texto, podem acabar gerando caracteres inválidos após a importação, causando problemas no momento da execução do aplicativo, no entanto eventuais erros deste tipo, são resolvidos facilmente corrigindo os caracteres necessários.
 
-Caso o veículo utilizado como exemplo no teste Web não esteja mais presente no site, pois as mudanças são contínuas, basta pesquisar por outro produto na documentação Cucumber e alterar o elemento correspondente do site WebMotors na classe "ElementosWeb".
+Caso os veículos utilizados como exemplo no teste não estejam mais presentes no site, pois as mudanças são contínuas, basta pesquisar por outros veículos na documentação Cucumber e alterar o elemento correspondente do site WebMotors na classe "ElementosWeb".
 
 # Autor
 
@@ -62,4 +56,3 @@ Rafael Coelho Fernandes
 
 - Linkedin: 
 www.linkedin.com/in/rafael-fernandes-QA1997
-
