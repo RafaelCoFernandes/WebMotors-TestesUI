@@ -35,12 +35,12 @@ Na condição de usuário, devemos realizar buscas pelo site, a fim de encontrar
 
 ## Clonar Repositório
 
-Abra a WorkSpace da sua IDE e no seu terminal GIT insira o código abaixo:
+Abra a WorkSpace da sua IDE e no seu terminal GIT, insira o comando abaixo:
 
 ```bash
 git clone https://github.com/RafaelCoFernandes/WebMotors-TestesUI.git
 ```
-Após clonar o projeto, abra a sua IDE e importe o projeto Maven, após realizar estes passos, basta executa-lo através da classe "Execucao" ou do modo que preferir.
+Após clonar o projeto, abra a sua IDE e importe o projeto Maven, com isso, basta executar a aplicação através da classe "Execucao" ou do modo que preferir.
 
 ## Obs Importantes
 
