@@ -1,7 +1,7 @@
 # WebMotors – Testes UI 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RafaelCoFernandes/WebMotors-TestesUI/blob/master/LICENSE) 
 # 1) Sobre o projeto
-A aplicação consiste em efetuar testes automatizados no site da WebMotors, usando a linguagem Cucumber/Selenium/JUnit com BDD na execução dos testes.
+A aplicação consiste em efetuar testes automatizados no site da WebMotors, usando as ferramentas Cucumber/Selenium/JUnit com BDD na execução dos testes.
 # 2) Objetivo
 Na condição de usuário, devemos realizar buscas pelo site, a fim de encontrar o veículo desejado. Enquanto Tester, devemos verificar se o site se comporta de maneira adequada a necessidade do usuário e validar os testes através de imagens que comprovem a funcionalidade do componente de pesquisa.
 ## Cenários de Teste
