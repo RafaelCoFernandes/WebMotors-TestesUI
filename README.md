@@ -38,7 +38,7 @@ Na condição de usuário, devemos realizar buscas pelo site, a fim de encontrar
 git clone https://github.com/RafaelCoFernandes/WebMotors-TestesUI.git
 ```
 - Importar projeto Maven através da IDE.
-- Mudar o padrão do texto para UTF-8 (Basta clicar com o botão direito na pasta raiz do projeto, ir em "properties" e mudar para UTF-8".
+- Mudar o padrão do texto para UTF-8 (Basta clicar com o botão direito na pasta raiz do projeto, ir em "properties" e mudar para UTF-8).
 - Rodar o projeto na classe "Execucao" ou do modo que preferir.
 
 ## Obs Importantes
